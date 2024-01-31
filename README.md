@@ -19,7 +19,7 @@ I am an aspiring *__Web Developer__* and a *__Machine Learning__* enthusiast.
     - User authorization was involved.
     - Tech stack involved: **ReactJS**, **NodeJS**, **ExpressJS**, **MongoDB**
 2. Worked remotely as a **Data Science Intern** at 1stop.ai
-    - Modeled an *__RNN__* and *__LSTM__* based deep learning-based chatbot that resulted in an accuracy of 85%.
+    - Developed a chatboat with the help of *__RNN__* and *__LSTM__* based deep learning-based Tensorflow model that resulted in an accuracy of 85%.
     - Demonstrated my creativity to predict best ads for customers according to their taste that achieved an accuracy of around 86%.
     - Tech stack involved: **Python**, **Scikit-learn**, **Tensorflow**, **Scipy**
   
