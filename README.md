@@ -35,6 +35,7 @@ I am an aspiring *__Web Developer__* and a *__Machine Learning__* enthusiast.
 - *NodeJS*
 - *Flask*
 - *Django*
+- *FastAPI*
 
 ### Machine Learning/Deep Learning Frameworks:
 - *Scikit-learn*
