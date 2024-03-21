@@ -1,7 +1,7 @@
 # Hi there 👋
 # I am Aaquib Asrar.
 
-## I am an aspiring *__Web Developer__* and a *__Machine Learning__* enthusiast.
+## Aspiring *__Web Developer__* and *__Machine Learning__* enthusiast.
 
 ## About Me
 - Currently an undergraduate student majoring in *Computer Science and Technology* at IIEST, Shibpur.
