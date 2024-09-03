@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on front-end web development.<br>I'm looking to collaborate on machine learning projects.<br>I'm currently learning cloud computing.<br>Fun fact - The most enjoyable person you'll ever meet.
+I'm currently working on front-end web development.<br>I'm looking to collaborate on machine learning and back-end web development projects.<br>I'm currently learning cloud computing.<br>Fun fact - The most enjoyable person you'll ever meet.
 
 
 ## 🌐 Socials:
